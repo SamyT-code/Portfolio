@@ -1,5 +1,5 @@
 # Portfolio
- Portfolio website coded using HTML, CSS, and Javascript.
+ Portfolio website coded using HTML, CSS, and Javascript. Built to put to practise my HTML and CSS coding skills and to show off cool projects I've worked on in a creative way.
  
  Website link: https://samy-websites.github.io/Portfolio/
  
